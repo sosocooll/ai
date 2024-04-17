@@ -1,7 +1,7 @@
 {
   "name": "RestakePro",
   "website": "https://blockscape.network/",
-  "description": "",
+  "description": "We manage >1k validators on Ethereum as operator of Lido,Swell,Stakewise and SSV.Furthermore we are active in 15+ Cosmos (CometBFT) chains as well.We have been running validators on Ethereum since PoS launch and have a proven track record of maintaining high uptime,security and performance across all chains.",
   "logo": "https://raw.githubusercontent.com/sosocooll/ai/main/RestakePro.png",
   "twitter": ""
 }
